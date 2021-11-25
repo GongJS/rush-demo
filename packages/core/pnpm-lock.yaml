@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/node': ^16.11.10
+  utils: workspace:~1.0.0
+
+devDependencies:
+  '@types/node': 16.11.10
+  utils: link:../utils
+
+packages:
+
+  /@types/node/16.11.10:
+    resolution: {integrity: sha512-3aRnHa1KlOEEhJ6+CvyHKK5vE9BcLGjtUpwvqYLRvYNQKMfabu3BwfJaA/SLW8dxe28LsNDjtHwePTuzn3gmOA==}
+    dev: true
